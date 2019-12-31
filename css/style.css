@@ -70,6 +70,10 @@ button.btn.btn-custom {
     color: #612316;
     margin: 0 auto;
 }
+button.btn.btn-custom:hover{
+	background:#DE4B2A;
+	color: white;
+}
 .no-padding{
 
 }
@@ -93,6 +97,10 @@ button.btn.btn-cus {
     border-radius: 37px;
     color: #5A5C63;
     font-size: 13px;
+}
+button.btn.btn-cus:hover{
+	background:#DE4B2A;
+	color: white;
 }
 h2.news {
     font-size: 31px;
@@ -129,6 +137,11 @@ p.blan {
     font-size: 15px;
     font-family: regular;
 }
+
+.btn-link:hover{
+	background:#24AD87;
+	color: white;
+}
 .btn-link2{
 	font-weight: 400;
     color: white;
@@ -138,6 +151,10 @@ p.blan {
     border-radius: 26px;
     font-size: 15px;
     font-family: regular;
+}
+.btn-link2:hover{
+	background:#DE4B2A;
+	color: white;
 }
 p.foot {
     font-size: 18px;
@@ -166,6 +183,10 @@ a.aa {
     margin: 0 auto;
     margin-left: -38px;
     color: black;
+}
+a.aa:hover{
+	background:#DE4B2A;
+	color: white;
 }
 /* Theme css */
 
